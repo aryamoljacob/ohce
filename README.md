@@ -1,8 +1,5 @@
 # ohce
 ohce test
-<<<<<<< HEAD
-=======
-
 
 1. When you start Ohce by typing Ohce < your name >, it greets you differently depending on the current time, butonly in
 Spanish:
@@ -13,4 +10,4 @@ Spanish:
 adds ¡Bonita palabra!
 3. Ohce knows when to stop, you just have to write Stop! and it'll answer Adios < your name >
 and end.
->>>>>>> c4d10eb (Initial commit)
+

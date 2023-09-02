@@ -4,7 +4,7 @@ namespace Ohce
 {
     public class OhceMethods
     {
-        string name = "dummyName";
+        string name;
 
         /* GetGreeting 
          * Params: 
