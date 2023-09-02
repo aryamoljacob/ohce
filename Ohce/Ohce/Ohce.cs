@@ -26,7 +26,8 @@ namespace Ohce
                     Tuple<string, bool> ohceResponse = om.Ohce(text);
                     Console.WriteLine(ohceResponse.Item1);
 
-                    /* quit after printing Adios Pedro if the user entered Stop!*/
+
+                    /* quit after printing Adios <name> when the user enter Stop! */
                     if (ohceResponse.Item2 == true)
                     {
                         break;
